@@ -1,0 +1,2 @@
+Les bonnes pratiques sont celles qui ne se pratique pas 
+commencer par pull
