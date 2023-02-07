@@ -1,2 +1,4 @@
+SOLID
 agile le venerable
 scrum 
+
